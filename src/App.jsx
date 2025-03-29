@@ -16,11 +16,7 @@ function App() {
     { id: 4, name: "Hao Mei", image: "https://i.pinimg.com/736x/24/45/19/2445198ce994085a44b93d9c2832f260.jpg" },
     { id: 5, name: "Er Xi", image: "https://i.pinimg.com/736x/52/9c/d3/529cd32a1512ed1a422d8712a1cf3c59.jpg" },
     { id: 6, name: "bai lu", image: "https://i.pinimg.com/736x/93/36/85/933685575d787d767dfa94efa5d18490.jpg" },
-    {
-      id: 7,
-      name: "Zhen Shaoxiang",
-      image: "https://i.pinimg.com/736x/8b/22/e5/8b22e56e3049121d987c95e899500b11.jpg",
-    },
+    { id: 7, name: "Zhen Shaoxiang",image: "https://i.pinimg.com/736x/9c/7f/ee/9c7fee7b72aab6d7e05e212a59543b2e.jpg",},
     { id: 8, name: "lin yi", image: "https://i.pinimg.com/736x/b4/94/b7/b494b7b6d0f33376317f8ab183feaa74.jpg" },
   ];
 
