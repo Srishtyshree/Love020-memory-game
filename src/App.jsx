@@ -12,7 +12,7 @@ function App() {
   const characters = [
     { id: 1, name: "Xiao Nai", image: "https://i.pinimg.com/736x/d0/3c/81/d03c816de4380f3a47b43901d1770057.jpg" },
     { id: 2, name: "Bei Weiwei", image: "https://i.pinimg.com/736x/52/9c/d3/529cd32a1512ed1a422d8712a1cf3c59.jpg" },
-    { id: 3, name: "KO", image: "https://i.pinimg.com/736x/2b/45/65/2b4565b7e18a4da51e9b79fa15806a0c.jpg" },
+    { id: 3, name: "KO", image: "https://i.pinimg.com/736x/8b/22/e5/8b22e56e3049121d987c95e899500b11.jpg" },
     { id: 4, name: "Hao Mei", image: "https://i.pinimg.com/736x/d0/3c/81/d03c816de4380f3a47b43901d1770057.jpg" },
     { id: 5, name: "Er Xi", image: "https://i.pinimg.com/736x/e0/83/49/e0834924980a25a7bc95a4eba575eb82.jpg" },
     { id: 6, name: "bai lu", image: "https://i.pinimg.com/736x/e4/93/ea/e493ea455f8888381c230d80743b9c51.jpg" },
