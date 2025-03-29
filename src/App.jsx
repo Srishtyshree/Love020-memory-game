@@ -10,18 +10,18 @@ function App() {
 
   // Love020. characters data
   const characters = [
-    { id: 1, name: "Xiao Nai", image: "src/characters/xiao-nai.jpeg" },
-    { id: 2, name: "Bei Weiwei", image: "src/characters/bei-weiwei.jpeg" },
-    { id: 3, name: "KO", image: "src/characters/ko.jpeg" },
-    { id: 4, name: "Hao Mei", image: "src/characters/hao-mei.jpeg" },
-    { id: 5, name: "Er Xi", image: "src/characters/er-xi.jpeg" },
-    { id: 6, name: "Cao Guang", image: "src/characters/cao-guang.jpeg" },
+    { id: 1, name: "Xiao Nai", image: "https://i.pinimg.com/736x/2b/45/65/2b4565b7e18a4da51e9b79fa15806a0c.jpg" },
+    { id: 2, name: "Bei Weiwei", image: "https://i.pinimg.com/736x/52/9c/d3/529cd32a1512ed1a422d8712a1cf3c59.jpg" },
+    { id: 3, name: "KO", image: "https://i.pinimg.com/736x/3a/19/9f/3a199f55273c779d52cbf6f1e5bca6f7.jpg" },
+    { id: 4, name: "Hao Mei", image: "https://i.pinimg.com/736x/d0/3c/81/d03c816de4380f3a47b43901d1770057.jpg" },
+    { id: 5, name: "Er Xi", image: "https://i.pinimg.com/736x/e4/93/ea/e493ea455f8888381c230d80743b9c51.jpg" },
+    { id: 6, name: "bai lu", image: "https://i.pinimg.com/736x/2b/45/65/2b4565b7e18a4da51e9b79fa15806a0c.jpg" },
     {
       id: 7,
       name: "Zhen Shaoxiang",
-      image: "src/characters/zhen-shaoxiang.jpeg",
+      image: "https://i.pinimg.com/736x/3a/19/9f/3a199f55273c779d52cbf6f1e5bca6f7.jpg",
     },
-    { id: 8, name: "Yu Banshan", image: "src/characters/yu-banshan.jpeg" },
+    { id: 8, name: "lin yi", image: "https://i.pinimg.com/736x/bf/6d/27/bf6d270b8b958fbe1784dee36a1a21f5.jpg" },
   ];
 
   // Initialize the game
