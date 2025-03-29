@@ -13,7 +13,7 @@ function App() {
     { id: 1, name: "Xiao Nai", image: "https://i.pinimg.com/736x/8b/22/e5/8b22e56e3049121d987c95e899500b11.jpg" },
     { id: 2, name: "Bei Weiwei", image: "https://i.pinimg.com/736x/6a/17/8d/6a178d9a74ac2716bd72d5d012f20c83.jpg" },
     { id: 3, name: "KO", image: "https://i.pinimg.com/736x/a2/36/c3/a236c36bf7c8f2b8b1b642574f6cb138.jpg" },
-    { id: 4, name: "Hao Mei", image: "https://i.pinimg.com/736x/c6/85/0d/c6850d564a477113b327d2a72ca8e668.jpg" },
+    { id: 4, name: "Hao Mei", image: "https://i.pinimg.com/736x/24/45/19/2445198ce994085a44b93d9c2832f260.jpg" },
     { id: 5, name: "Er Xi", image: "https://i.pinimg.com/736x/52/9c/d3/529cd32a1512ed1a422d8712a1cf3c59.jpg" },
     { id: 6, name: "bai lu", image: "https://i.pinimg.com/736x/93/36/85/933685575d787d767dfa94efa5d18490.jpg" },
     {
